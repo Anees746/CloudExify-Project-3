@@ -1,4 +1,4 @@
-# 🐍 Python Quiz Game
+# Python Quiz Game
 
 ## CloudExify Python Internship — Month 2, Project 3
 
